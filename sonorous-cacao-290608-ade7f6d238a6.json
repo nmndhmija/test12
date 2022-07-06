@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sonorous-cacao-290608",
+  "private_key_id": "ade7f6d238a640116b0bb050a76176ec52802fee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm4UfZKPw3fw/b\nqt3aEsZRwwuiTU+HlPl2j0kJEXGh04a2SIitr9CfNWOsMO1XL3uh0RSHdS+35Dgo\npq0HlHeHO0xgfalw0Zaj3TBXQe5edyMFkWJ8S6QOpTI0HGREwqVVwgUdaSjth5o6\n7IszBtE4w0eTxdyCSSn4ODkRkHTO173iZrUrT+4k0PBkIcWWMNwhwCytf1hJzFoD\nfc6d/d/GqDBA6oO9j6MRAKry7SaqOg4JIkRE00sOcm+e7HeJ2Ra1yRxXEaJGiCdY\njA9tcClyLip5Fq+pqP7jj2VGpsqlNQ13/mad9xZg3r3juGiOmsX5TVm4cJIG/Ujv\nuwXqOMABAgMBAAECggEAB1FMFv3o118jOSDsMv6NQzMQDMkikmGqMbR1QahJ6Qxv\nNQmHssQJnB2Zdgi8M41BuNYD9i+hjMj9XGz4m+M6/YtQXU/NUQTju+I8VystMme7\neahHHwerFThRs/7Ft80oNlM4abJ9iLLgRLKwJOfo3zoS5qwvr+fY5wlCGV7R/Grf\np9dORk6pt1gEPZVWhF7Pg90ISPC6aRL7SaHWivtvv6sdVgOLR0EnaPkZ6W0xSvFb\nfVsgYnO8dMxEDB/3FOKQ5yqJNybodASqALrj8IBHeau8kX/LCtZsirUT77mkMvr7\n3M6Mfc1B5qXypDYVVet8lbe3KackVrN2PQ2CLl8ntQKBgQDos7zuA1h/FXRznKrv\nlPcnWsTwVKLpLEu36ni9wn5RqgvKXrg7YGQaluur5kgQZQW9xtYwPWk9QKgd6iyk\nY2dc0LUVkSAxqw5JoC/Dmo3dqxiYsbtLU40H8Aq89c6bS5330i5VwxRcWtmiPdiD\nrePThdNXVCNkGMqLSS24HGn9PQKBgQC3ln3wb4cCjqlKgXBHizTzUds4QHONk6KV\n+PBiGBkoJdfWcyTT1xAUxSH9gp/9Yc8Cwr5OA7TkIfQF/vQkaA/6MQa4HoCKg7ml\npv+/N5gdajJ6QyYpX+OWG3BKFZkOAAYjuBUfXdB4EQj6wy9UNT9Jd1jhpL9iMPBE\nw8VtWYaCFQKBgEQJ2aHWBJgT09rB4hDvA1zUY2TJumBm/TSnL+p75adHCu9+xmtG\nAb7shbfbOxLgFs+oRZQRQKYSM5WblLX0ApLWyzulFT6wfxrz5UNR+0zm6+gpf1PE\n+CVsABfD30b00xlUsQuOYHOodJ3Fa3sE6uo75NFR3o8z2HTlTqLYW/0ZAoGAFCe+\nfdYQsXQuG9LoG8KptojnE17oEMQDlol1Ap/4qxK0hoOvqF41EsKtv6JGpE/HpVrx\n/6iihGVB4CKkdRbDokkdnrsii5J4oDocW8bjuV7+WbPjjalMWB99DXUfj4zrH6LH\nFuF60KO2I6moGYua/hrPND6dEE+lITeJBj9M6B0CgYEApiNkjKXzzyEdEETDDPiM\nD0Xp5pAQdOZHS9FAaVSy/yg+L5LaQdSIzTwGIjpzSVgoFoXyWEjx/tAe4DcGjgxo\nAahw/+IZMHcG/ZJ0/sM/Wjg3aPcWRar43oe488/bWnGescbqtwL0hrZFeSDk9feX\nrxzaaNPH/5+BdcisoXH1Pxg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "server@sonorous-cacao-290608.iam.gserviceaccount.com",
+  "client_id": "101401262279426357645",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/server%40sonorous-cacao-290608.iam.gserviceaccount.com"
+}
